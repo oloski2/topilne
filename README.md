@@ -17,7 +17,7 @@ Po otrzymaniu danych pogodowych będą one wyświetlane na ekranie.
 - Wymagane połączenie z internetem.
 - Dla poprawnego działania aplikacji wymagane jest podanie nazwy miasta.
 - Aplikacja może wyświetlić komunikat "nyma", jeśli nie uda się pobrać danych pogodowych dla wprowadzonego miasta.
-- 
+  
 ## Technologie
 - Android Studio: Środowisko programistyczne do tworzenia aplikacji na platformę Android.
 - Java: Język programowania użyty do napisania kodu aplikacji.
